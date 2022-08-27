@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TryCloneUber/static/css/main.f42f3403.css",
+    "main.js": "/TryCloneUber/static/js/main.865f8688.js",
+    "static/js/787.11b9a3c6.chunk.js": "/TryCloneUber/static/js/787.11b9a3c6.chunk.js",
+    "index.html": "/TryCloneUber/index.html",
+    "main.f42f3403.css.map": "/TryCloneUber/static/css/main.f42f3403.css.map",
+    "main.865f8688.js.map": "/TryCloneUber/static/js/main.865f8688.js.map",
+    "787.11b9a3c6.chunk.js.map": "/TryCloneUber/static/js/787.11b9a3c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f42f3403.css",
+    "static/js/main.865f8688.js"
+  ]
+}
